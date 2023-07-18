@@ -54,7 +54,7 @@ I've also done some programming in MySQL, Rust, C, Arduino, Deno...
 
 ### Projects 💼
 
-I like to make quickstarts which can be used as templates to make websites, such as with React, Vue, MkDocs, Jekyll or Docsify. See my [quickstart](https://github.com/fenix011?tab=repositories&q=quickstart&type=&language=) projects on GitHub.
+I like to make quickstarts which can be used as templates to make websites, such as with Hugo, Jekyll, 11ty,.... See my [quickstart](https://github.com/fenix011?tab=repositories&q=quickstart&type=&language=) projects on GitHub.
 
 My gists are available on a one-page site - [Gist Viewer](https://fenix011.github.io/gist-viewer/)
 
