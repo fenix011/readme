@@ -1,9 +1,8 @@
-## Hi, I am a software maker
-> Also a "Data genie" and "open sourcerer"
+## Hi, I am a web maker
+> Also a SysOps and "FLOSSer" by heart
 
-I'm a Senior Software Engineer working in Amsterdam, working in sustainable energy. I build a lot of projects for fun with Python, JavaScript, Jekyll and more. A big fan of elegant designs, clean code, and static site generators.
+I'm a Senior Software Engineer working in collaboration for little great agency in Amsterdam. I build a lot of projects for fun with HTML5, Jekyll, Hugo... and more. A big fan of elegant designs, clean code, and static site generators.
 
-My profile links are here - [bio.link/michaelcurrin](https://bio.link/michaelcurrin).
 
 
 ### Blogs and writing 📜 
@@ -24,15 +23,11 @@ Python is my first love and preferred language - see my [Python repos on GitHub]
 
 - Backend (render HTML and build REST APIs)
 - Frontend (HTML, CSS, JavaScript)
-- Python packages (Requests, Pandas, Django, Flask)
-- JavaScript packages (Express, Vue, React, TypeScript, ApexCharts)
-- Shell scripting (Linux and macOS)
-- Software testing (TDD, BDD, Selenium browser tests)
-- Monitoring and observability (Datadog, New Relic, and PageDuty)
-- Architect and build AWS cloud infrastructure using Terraform (SQS queues, Postgres, MongoDB, CloudFront, DNS, EC2, and Lambdas)
-- Containerized services (Docker and Kubernetes)
-- Deployment pipelines (Netlify, GitHub Actions, Buildkite, Jenkins)
-- Data Science (web scraping, data visualization, machine learning)
+- Python packages (Requests, BeatifoulSoup, and more...)
+- Shell scripting (GNU / Linux)
+- Architect and build systems and networks  infrastructure (using DebOps, Ansible, Terraform, DNS, IPtables...)
+- Containerized services (Docker and LXC)
+- (... and now learning Data Science (web scraping, data visualization, machine learning)
 - Write documentation and make documentation sites 
 
 More details on the tools:
@@ -51,49 +46,10 @@ I've also done some programming in MySQL, Rust, C, Arduino, Deno...
 ### I’m currently learning more about 🌱
 
 - Go
-- Vue
+- JavaScript
 - Python
 
 
-
-## Open source contrbutions
-
-<!--
-
-> Merged Pull Requests created by MichaelCurrin in public repos of other users
-
-Total: 140
-
-Last 6 months:
-
-Month   | PRs
----     | ---
-2021-12 |   1
-2021-11 |   6
-2021-10 |   4
-2021-09 |  11
-2021-08 |  12
-2021-07 |  17
-
-Generated as a report from my my [aggre-git](https://github.com/MichaelCurrin/aggre-git) tool.
-
-View the source data yourself in a GitHub search - [URL](https://github.com/pulls?q=is%3Apr+is%3Amerged+is%3Apublic+author%3AMichaelCurrin+-user%3AMichaelCurrin+sort%3Acreated-desc+).
-
--->
-
-### GitHub Stats
-
-Here are some stats from the GitHub Readme Stats project for my profile.
-
-<a href="https://github.com/MichaelCurrin" alt="Go to GitHub profile">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCurrin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-        alt="Top languages card" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelcurrin" alt="Streak stats card" />
-    <img src="https://github-readme-stats.vercel.app/api?username=MichaelCurrin&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" 
-        alt="Profile stats card" />
-</a>
-
-The `S` score means "Top 1%" and is better than `A+`. Stats generated using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) service.
 
 
 ### Projects 💼
@@ -112,7 +68,7 @@ This page you are reading is a profile readme. Around July 2020, GitHub made thi
 
 To make one, create a repo named after your username (matching case exactly) and create a `README.md` file in it. Then go to your GitHub profile and you'll see your README appear there ✨.
 
-- [MichaelCurrin/MichaelCurrin](https://github.com/MichaelCurrin/MichaelCurrin/) repo where this README lives
+- I've got inspired by my friend [MichaelCurrin/MichaelCurrin](https://github.com/MichaelCurrin/MichaelCurrin/) repo where this README lives
 - GitHub topic: [profile-readme](https://github.com/topics/profile-readme)
 - Tutorial: [How To Create A GitHub Profile README](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)
 
